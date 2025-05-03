@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+header {
+    background-color: #197600;
+    text-align: center;margin: 0;
+    height: 140px;
+}
+h1 {
+    margin: 0;
+}
+img {
+    height: 94px;
+    float: left;
+}
+h2 {
+    float: left;
+    font-size: 40px
+}
+main img {
+    width: 508px;
+    height: 339px;
+    margin-left: 28px;
+}
+main p {
+    margin: 96px;
+}
+.w {
+   width: 528px;
+   height: 297px; 
+}
+.qw {
+    display: inline-block;
+}
+iframe {
+    float: right;
+}

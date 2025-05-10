@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+header {
+    background-color: #197600;
+    margin: 0;
+    height: 140px;
+    text-align: center;
+}
+h1 {
+    margin: 0;
+}
+img {
+    height: 94px;
+    float: left;
+}
+h2 {
+    float: left;
+    font-size: 40px;
+}
+main img {
+    height: 279px;
+    width: 531px;
+    border-radius: 27px;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+iframe {
+    float: right;
+    margin-top: 40px;
+    margin-right: 100px;
+}
+p {
+float: left;
+margin-top: 60px;
+margin-left: 100px;
+margin-right: 100px;
+}
+we {
+    margin-right: 345px;
+}
